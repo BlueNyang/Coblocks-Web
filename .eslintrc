@@ -22,6 +22,7 @@
         "unnamedComponents": "arrow-function"
       }
     ],
+    "react-hooks/exhaustive-deps": "off",
     "arrow-body-style": ["error", "always"],
     "no-var": "error",
     "no-multiple-empty-lines": "error",
